@@ -1,0 +1,5 @@
+Edna ; 18
+Valentina ; 7
+Edson ; 50
+Lucas ; 19
+Suelen ; 34
