@@ -13,9 +13,9 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 
 ## Organização
 
-- Mundo 1[Mundo 1](https://github.com/LuccasPROG/Curso-Em-VideoPython-Lucas/tree/main/Mundo%201)
-- Mundo 2
-- Mundo 3
+- Mundo 1:  [Mundo 1](https://github.com/LuccasPROG/Curso-Em-VideoPython-Lucas/tree/main/Mundo%201)
+- Mundo 2   [Mundo 2](https://github.com/LuccasPROG/Curso-Em-VideoPython-Lucas/tree/main/Mundo%202)
+- Mundo 3   [Mundo 3](https://github.com/LuccasPROG/Curso-Em-VideoPython-Lucas/tree/main/Mundo%203)
 
 ---
 
